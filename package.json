@@ -1,0 +1,20 @@
+{
+  "name": "message-chain-blog",
+  "version": "0.0.1",
+  "description": "Message Chain Blog",
+  "main": "index.js",
+  "authors": {
+    "name": "Marcus Cuda",
+    "email": "marcus@cuda.org"
+  },
+  "repository": "https://github.com/message-chain/blog.git/message-chain-blog",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/theme-blog": "^2.3.2",
+    "vuepress": "^1.5.3"
+  }
+}
