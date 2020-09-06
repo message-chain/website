@@ -1,60 +1,60 @@
 {
-  "producer_account_name":"messageappbp",
-  "org":{
-    "candidate_name":"Message Chain Community",
-    "website":"https://messagechain.app/",
-    "code_of_conduct":"",
-    "ownership_disclosure":"",
-    "email":"bp@messagechain.app",
-    "branding":{
-      "logo_256":"",
-      "logo_1024":"",
-      "logo_svg":""
+  "producer_account_name": "messageappbp",
+  "org": {
+    "candidate_name": "Message Chain Community",
+    "website": "https://messagechain.app/",
+    "code_of_conduct": "",
+    "ownership_disclosure": "",
+    "email": "bp@messagechain.app",
+    "branding": {
+      "logo_256": "",
+      "logo_1024": "",
+      "logo_svg": ""
     },
-    "location":{
-      "name":"Green Cove Springs, FL",
-      "country":"United States",
-      "latitude":29.9919,
-      "longitude":81.6781
+    "location": {
+      "name": "Green Cove Springs, FL",
+      "country": "United States",
+      "latitude": 29.9919,
+      "longitude": 81.6781
     },
-    "social":{
-      "steemit":"",
-      "twitter":"",
-      "youtube":"",
-      "facebook":"",
-      "github":"",
-      "reddit":"",
-      "keybase":"",
-      "telegram":"",
-      "wechat":""
+    "social": {
+      "steemit": "",
+      "twitter": "message_chain",
+      "youtube": "",
+      "facebook": "",
+      "github": "message-chain",
+      "reddit": "",
+      "keybase": "",
+      "telegram": "",
+      "wechat": ""
     }
   },
-  "nodes":[
+  "nodes": [
     {
-      "location":{
-        "name":"New Jersey",
-        "country":"United States",
-        "latitude":40.5511,
-        "longitude":-74.4606
+      "location": {
+        "name": "New Jersey",
+        "country": "United States",
+        "latitude": 40.5511,
+        "longitude": -74.4606
       },
-      "node_type":"producer",
-      "p2p_endpoint":"",
-      "bnet_endpoint":"",
-      "api_endpoint":"",
-      "ssl_endpoint":""
+      "node_type": "producer",
+      "p2p_endpoint": "",
+      "bnet_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
     },
     {
-      "location":{
-        "name":"New Jersey",
-        "country":"United States",
-        "latitude":40.5511,
-        "longitude":-74.4606
+      "location": {
+        "name": "New Jersey",
+        "country": "United States",
+        "latitude": 40.5511,
+        "longitude": -74.4606
       },
-      "node_type":"full",
-      "p2p_endpoint":"remnode1.messagechain.app:9876",
-      "bnet_endpoint":"",
-      "api_endpoint":"remnode1.messagechain.app:8888",
-      "ssl_endpoint":""
+      "node_type": "full",
+      "p2p_endpoint": "remnode1.messagechain.app:9876",
+      "bnet_endpoint": "",
+      "api_endpoint": "remnode1.messagechain.app:8888",
+      "ssl_endpoint": ""
     }
   ]
 }
