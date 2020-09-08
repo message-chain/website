@@ -5,7 +5,7 @@
     "website": "https://messagechain.app/",
     "code_of_conduct": "",
     "ownership_disclosure": "",
-    "email": "bp@messagechain.app",
+    "email": "contact@messagechain.app",
     "branding": {
       "logo_256": "",
       "logo_1024": "",
@@ -51,9 +51,9 @@
         "longitude": -74.4606
       },
       "node_type": "full",
-      "p2p_endpoint": "remnode1.messagechain.app:9876",
+      "p2p_endpoint": "p2p.messagechain.app:9876",
       "bnet_endpoint": "",
-      "api_endpoint": "remnode1.messagechain.app:8888",
+      "api_endpoint": "api.messagechain.app:8888",
       "ssl_endpoint": ""
     }
   ]
